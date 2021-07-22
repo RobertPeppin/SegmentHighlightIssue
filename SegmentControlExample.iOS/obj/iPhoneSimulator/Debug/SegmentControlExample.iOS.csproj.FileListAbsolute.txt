@@ -1,0 +1,126 @@
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/SegmentControlExample.iOS.exe
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/SegmentControlExample.iOS.pdb
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/Syncfusion.Licensing.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/Syncfusion.Buttons.XForms.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/Syncfusion.Buttons.XForms.iOS.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/Syncfusion.Core.XForms.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/Syncfusion.Core.XForms.iOS.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/SegmentControlExample.dll
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/SegmentControlExample.pdb
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/obj/iPhoneSimulator/Debug/SegmentControlExample.iOS.csproj.AssemblyReference.cache
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/obj/iPhoneSimulator/Debug/SegmentControlExample.iOS.csproj.CoreCompileInputs.cache
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/obj/iPhoneSimulator/Debug/SegmentControlExample.iOS.csproj.CopyComplete
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/obj/iPhoneSimulator/Debug/SegmentControlExample.iOS.exe
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/obj/iPhoneSimulator/Debug/SegmentControlExample.iOS.pdb
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/actool/_PartialAppManifest.items
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/actool/_BundleResourceWithLogicalName.items
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/ibtool/_BundleResourceWithLogicalName.items
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/coremlc/_PartialAppManifest.items
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/coremlc/_BundleResourceWithLogicalName.items
+/Users/robert.peppinvistair.com/Projects/SegmentControlExample/SegmentControlExample.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/SegmentControlExample.iOS.exe
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/SegmentControlExample.iOS.pdb
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/Syncfusion.Licensing.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/Syncfusion.Buttons.XForms.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/Syncfusion.Buttons.XForms.iOS.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/Syncfusion.Core.XForms.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/Syncfusion.Core.XForms.iOS.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/SegmentControlExample.dll
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/bin/iPhoneSimulator/Debug/SegmentControlExample.pdb
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/obj/iPhoneSimulator/Debug/device-builds/ipad pro (9.7-inch)-14.5/actool/_PartialAppManifest.items
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/obj/iPhoneSimulator/Debug/device-builds/ipad pro (9.7-inch)-14.5/actool/_BundleResourceWithLogicalName.items
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/obj/iPhoneSimulator/Debug/device-builds/ipad pro (9.7-inch)-14.5/ibtool/_BundleResourceWithLogicalName.items
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/obj/iPhoneSimulator/Debug/device-builds/ipad pro (9.7-inch)-14.5/coremlc/_PartialAppManifest.items
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/obj/iPhoneSimulator/Debug/device-builds/ipad pro (9.7-inch)-14.5/coremlc/_BundleResourceWithLogicalName.items
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/obj/iPhoneSimulator/Debug/device-builds/ipad pro (9.7-inch)-14.5/optimized/
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/obj/iPhoneSimulator/Debug/SegmentControlExample.iOS.csproj.AssemblyReference.cache
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/obj/iPhoneSimulator/Debug/SegmentControlExample.iOS.csproj.CoreCompileInputs.cache
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/obj/iPhoneSimulator/Debug/SegmentControlExample.iOS.csproj.CopyComplete
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/obj/iPhoneSimulator/Debug/SegmentControlExample.iOS.exe
+/Users/robert.peppinvistair.com/Documents/GitHub/SegmentHighlightIssue/SegmentControlExample.iOS/obj/iPhoneSimulator/Debug/SegmentControlExample.iOS.pdb

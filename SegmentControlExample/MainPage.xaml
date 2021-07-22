@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="SegmentControlExample.MainPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:buttons="clr-namespace:Syncfusion.XForms.Buttons;assembly=Syncfusion.Buttons.XForms">
+
+    <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+        <Label Margin="8" Text="1/ Tap Enable All" />
+        <Label Margin="8" Text="2/ Select Current Segment" />
+        <Label Margin="8" Text="3/ Tap Disable current and group" />
+        <Label Margin="8" Text="4/ Tap Enable All" />
+        <Label Margin="8" Text="5/ The segment 'Current' thinks it is still selected but the highlight is now on 'All'" />
+        <buttons:SfSegmentedControl
+            x:Name="ModeSelection"
+            BackgroundColor="Transparent"
+            BorderColor="#929292"
+            FontColor="Blue"
+            HeightRequest="60"
+            ItemsSource="{Binding SearchScopes}"
+            SelectedIndex="{Binding SelectedScope, Mode=TwoWay}"
+            SelectionChanged="ModeSelection_SelectionChanged"
+            SelectionTextColor="White"
+            VisibleSegmentsCount="3"
+            Color="Transparent" />
+        <Button Command="{Binding EnableAllCommand}" Text="Enable All" />
+        <Button Command="{Binding DisableItems}" Text="Disable Current and Group" />
+    </StackLayout>
+</ContentPage>
